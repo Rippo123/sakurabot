@@ -33,8 +33,8 @@ class script(object):
 𝖬𝖺𝖽𝖾 𝖻𝗒 @SakuraBotUpdates ❤️
 """
     ABOUT_TXT = """
-○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : 𝖲𝖺𝗄𝗎𝗋𝖺
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/paulwalker_tg'>PaulWalker</a>
+○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : @Bad_Bunny_444
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Bad_Bunny_444'>Bad_Bunny_444</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : <a href='https://www.heroku.com'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
